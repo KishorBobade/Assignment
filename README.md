@@ -1,7 +1,7 @@
 Hello everyone!
 
 I wanted to share my exciting journey through my first semester of the Master of Data Science program, where I solved all the Python lab exercises and practice sets. This experience was a crucial part of my learning and growth as a Python developer.
-
+ 
 Achievements:
 Completed all Python lab exercises: These labs covered a wide range of topics, helping me strengthen my understanding of Python fundamentals and advanced concepts.
 Solved practice sets: Beyond the labs, I worked on various practice problems, which further honed my problem-solving skills.
